@@ -35,6 +35,10 @@ The mask recognition is self-labelled over 300 mask images, fully trained by Goo
 
 Competitive Products: Brain++ AI Body Temperature Monitor System by MegVII
 ![Similar](http://n.sinaimg.cn/spider202025/640/w1280h960/20200205/e2f5-inzcrxs5862922.jpg)
+
+<p align="center">
+  <img height="300" src="http://n.sinaimg.cn/spider202025/640/w1280h960/20200205/e2f5-inzcrxs5862922.jpg">
+</p>
 *Souce:*
 https://megvii.com/en/news/ID?news_id=111
 
