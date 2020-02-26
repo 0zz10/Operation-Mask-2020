@@ -9,7 +9,7 @@
 ### Project Information:
 The 2019 novel coronavirus (COVID-19), previously known as 2019-nCoV, is a contagious virus that causes respiratory infection and has shown evidence of human-to-human transmission, first identified by authorities in Wuhan, Hubei, China, as the cause of the ongoing 2019–20 Wuhan coronavirus outbreak.
 
-This operation is immediately taken into action to make necessary medical precaution for further virus transmission as well as medical treatment to current patients. Cost optimization is applied to this protable edge system, this open-sourced repository can be repulicated for those fighters with all the best wishes. The [total hardware expenditure](https://github.com/0zz10/Operation-Mask-2020/blob/master/Images/01 Shopping Carts.png) is under $200, five times cheaper compared to the infrared thermometer.
+This operation is immediately taken into action to make necessary medical precaution for further virus transmission as well as medical treatment to current patients. Cost optimization is applied to this protable edge system, this open-sourced repository can be repulicated for those fighters with all the best wishes. The [total hardware expenditure](https://github.com/0zz10/Operation-Mask-2020/blob/master/Images/Shoppingcarts.png) is under $200, five times cheaper compared to the infrared thermometer.
 
 The following project is **a real-time temperature measurement/mask-wearing detection disease control system**, built on Raspberry Pi 4B, PiCamera, IR temperature sensor, Google Cloud Platform (AutoML Vision, Storage, Big Query, Pub/Sub, Cloud Functions), digital segment display, and LCD display. The programming tools are pythons and TensorFlow Lite.
 
@@ -20,7 +20,7 @@ This design is an end-to-end medical solution integrated with temperature detect
 
 ### System Evaluation
 ![System Architect](https://github.com/0zz10/Operation-Mask-2020/blob/master/Images/Evaluation.png)
-The Machine Learning model uses total **301 images datasets** with **41 labelled masks**, trained by 274 labelled data, and tested by 27 images. The evaluation of mask-recognition model gives **precision of 97.5%**
+The Machine Learning model uses total **301 images datasets** with **41 labelled masks**, trained by 274 labelled data, and tested by 27 images. The evaluation of mask-recognition model gives **precision of 97.5%**.
 
 ### Demo
 **Demo Video**, Please visit https://youtu.be/RVai-bdd2Lc
