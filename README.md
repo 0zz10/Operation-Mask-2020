@@ -26,15 +26,18 @@ This design is an end-to-end medical solution integrated with temperature detect
 The Machine Learning model uses total **301 images datasets** with **41 labelled masks**, trained by 274 labelled data, and tested by 27 images. The evaluation of mask-recognition model gives **precision of 97.5%**.
 
 ### 4. Demo
-**Demo Video**, Please check the full episode that I produced about this operation at https://youtu.be/RVai-bdd2Lc.
 ![Demo](https://github.com/0zz10/Operation-Mask-2020/blob/master/Images/Demo.gif)
 
-**Demo Scenarios:**
-1. Not Wearing Mask/ Human Body Temperature Detected
-2. Wearing Mask (N95) / Human Body Temperature Detected 
-3. Wearing Mask (medical mask) / Fever Detected         
-4. Sample Images Test
-5. Sample Video Test
+**Demo Video**, Please check the full episode that I produced about this operation at https://youtu.be/RVai-bdd2Lc <br>
+| Time Clips     | Scenarios of Demo Video | Results  |
+| :-------: |:-------------:| :-----:|
+| 02:40 | Video Streaming and Temperature Detection set up | ✓ |
+| 02:50| Not Wearing Mask/ Human Body Temperature Detected | ✓ |
+| 03:00  | Wearing Mask (N95) / Human Body Temperature Detected |  ✓ |
+| 03:15 | Wearing Mask (medical mask) / Fever Detected    |    ✓ |
+| 03:25 | Sample Images Test    |✓|
+| 03:30 | Sample Video Test    |✓ |
+
 
 ### 5. Appendix
 #### See [Final Report](https://github.com/0zz10/Operation-Mask-2020/blob/master/Final_Report.ipynb) for more information.
