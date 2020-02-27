@@ -47,7 +47,7 @@ The Machine Learning model uses total **301 images datasets** with **41 labelled
 #### Competitive Products
 Brain++ AI Body Temperature Monitor System by MegVII, released on February 7, 2020 (One week after **Operation Mask 2020** released)
 <p align="center">
-  <img height="300" src="http://n.sinaimg.cn/spider202025/640/w1280h960/20200205/e2f5-inzcrxs5862922.jpg">
+  <img height="350" src="http://n.sinaimg.cn/spider202025/640/w1280h960/20200205/e2f5-inzcrxs5862922.jpg">
 </p>
 
 *Souce:* <br>
